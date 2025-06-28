@@ -2,19 +2,19 @@ const CACHE_NAME = 'hima-sia-cache-v1';
 const urlsToCache = [
   'index.html',
   'detail.html',
-  'css/bootstrap.min.css',
-  'js/bootstrap.bundle.min.js',
-  'img/backweb.jpeg',
-  'img/logo_hima_sia.png',
-  'img/ketua.jpeg',
-  'img/wakil.jpeg',
-  'img/administrasi.jpeg',
-  'img/akademik.jpeg',
-  'img/networking.jpeg',
-  'img/dpo.jpeg',
+  'bootstrap.min.css',
+  'bootstrap.bundle.min.js',
+  'backweb.jpeg',
+  'logo_hima_sia.png',
+  'ketua.jpeg',
+  'wakil.jpeg',
+  'administrasi.jpeg',
+  'akademik.jpeg',
+  'networking.jpeg',
+  'dpo.jpeg',
   'manifest.json',
-  'img/icon-192.png',
-  'img/icon-512.png'
+  'icon-192.png',
+  'icon-512.png'
 ];
 
 // Install
